@@ -108,36 +108,6 @@ Mevcut mimari "Actions" sistemine hazır:
 - Toplu işlemler — "tüm ürün fiyatlarını %10 artır" gibi komutlar
 - Site analizi — SEO skoru, yavaş sayfalar
 
----
-
-## Versiyon Geçmişi
-
-| Versiyon | Değişiklikler |
-|---|---|
-| 2.4.8 | Inline CSS override — hosting cache sorunlarına karşı beyaz tema garantisi |
-| 2.4.7 | Kodee stilinde yeni UI — sade beyaz, pembe gradient launcher |
-| 2.4.4 | Supabase tamamen kaldırıldı |
-| 2.4.2 | Groq key yoksa akıllı fallback mesajı + key yönlendirmesi |
-| 2.4.1 | Ai-la kendi ayarlarına yönlendirme (groq key, supabase route'ları) |
-| 2.4.0 | Yeni Settings sayfası tasarımı, hardcoded key'ler kaldırıldı |
-| 2.3.7 | Groq sistem promptu iyileştirme |
-| 2.3.5 | Gemini kaldırıldı, Groq AI entegrasyonu |
-| 2.3.2 | Actions mimarisi temeli (renderByType) |
-| 2.3.0 | Gemini hata yönetimi, CSS yenileme |
-| 2.2.9 | Sohbet geçmişi Gemini'ye gönderiliyor |
-| 2.2.8 | Doğal sohbet cevapları (selam, nasılsın, teşekkürler) |
-| 2.2.5 | Sayfa bağlamı Gemini'ye gönderiliyor |
-| 2.2.3 | Sayfaya git → popup açılır, adım adım yönlendirme, next_steps |
-| 2.2.1 | Hardcoded key güvenlik düzeltmesi |
-| 2.1.8 | Etkinlik, harita, sosyal giriş, WooCommerce ürün tipleri |
-| 2.1.1 | Akıllı fallback — kategori bazlı alternatif öneriler |
-| 2.1.0 | Güvenlik senaryoları, medya yönetimi, WordPress araçları |
-| 2.0.9 | WooCommerce detayları, Jetpack, Multisite, hosting |
-| 2.0.8 | Sohbet geçmişi (localStorage), admin bar kısayolu |
-| 2.0.6 | Info routes öncelik düzeltmesi |
-| 2.0.0 | Yeniden yapılandırma, 50+ route |
-
----
 
 ## Geliştirici
 
